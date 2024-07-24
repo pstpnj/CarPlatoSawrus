@@ -1,3 +1,9 @@
 /.venv
+/runs
+
 /Plate\ Annotation/untrack
+/Plate\ Annotation/pic
+/Plate\ Annotation/tmp.py
+/Plate\ Annotation/yolov8x.pt
+
 .DS_Store
