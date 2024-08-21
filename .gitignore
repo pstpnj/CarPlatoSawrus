@@ -3,7 +3,9 @@
 /Plate\ Annotation/untrack
 /Plate\ Annotation/pic
 /Plate\ Annotation/tmp.py
-/Plate\ Annotation/yolov8x.pt
+/Plate\ Annotation/yolov10n.pt
+/Plate\ Annotation/yolov8n.pt
+/Plate\ Annotation/confusionmartix.py
 
 .DS_Store
 
