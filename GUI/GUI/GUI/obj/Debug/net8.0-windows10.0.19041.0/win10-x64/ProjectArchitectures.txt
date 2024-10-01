@@ -1,0 +1,1 @@
+C:\PBL\PBL-License\CarPlatoSawrus\GUI\GUI\GUI\GUI.csproj;x64
