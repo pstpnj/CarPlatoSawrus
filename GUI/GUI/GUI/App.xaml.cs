@@ -1,0 +1,14 @@
+﻿using GUI.Pages;
+
+namespace GUI
+{
+    public partial class App : Application
+    {
+        public App()
+        {
+            InitializeComponent();
+            
+            MainPage = new HomePage();
+        }
+    }
+}

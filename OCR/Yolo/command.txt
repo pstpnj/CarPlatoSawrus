@@ -1,0 +1,1 @@
+yolo task=detect mode=train model=best.pt data=data.yaml epochs=40 imgsz=640 device=0
