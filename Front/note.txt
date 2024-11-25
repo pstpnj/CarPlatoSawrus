@@ -1,0 +1,1 @@
+ffmpeg -i rtsp://10.105.7.203 -vf fps=30 -f image2 -update 1 ./save/output.jpg
